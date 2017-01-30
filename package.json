@@ -1,8 +1,9 @@
 {
-  "name": "bdsm",
-  "version": "0.2.2",
+  "name": "@barbuza/bdsm",
+  "version": "0.2.3",
   "description": "Extracts dominant colors from bottom and top parts of an image.",
   "main": "./src/bdsm.js",
+  "typings": "./src/bdsm.d.ts",
   "author": {
     "name": "Andrew Kuznetsov",
     "email": "cav@cav.ru",
@@ -29,10 +30,10 @@
     "picker",
     "thief"
   ],
-  "homepage": "https://github.com/cavinsmith/bdsm.js/",
+  "homepage": "https://github.com/barbuza/bdsm.js/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cavinsmith/bdsm.js.git"
+    "url": "https://github.com/barbuza/bdsm.js.git"
   }
 }
